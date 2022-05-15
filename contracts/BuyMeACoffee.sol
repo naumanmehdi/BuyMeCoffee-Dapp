@@ -1,7 +1,7 @@
 //SPDX-License-Identifier: Unlicense
 
 // contracts/BuyMeACoffee.sol
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.4;
 
 // Switch this to your own contract address once deployed, for bookkeeping!
 // Example Contract Address on Goerli: 0xDBa03676a2fBb6711CB652beF5B7416A53c1421D
